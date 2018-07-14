@@ -8,3 +8,4 @@
 
 echo 'I am a test';
 123;
+12;
