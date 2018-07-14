@@ -7,3 +7,4 @@
  */
 
 echo 'I am a test';
+1;
