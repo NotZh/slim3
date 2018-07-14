@@ -7,5 +7,4 @@
  */
 
 echo 'I am a test';
-123;
-'fsfseaf':
+12;
